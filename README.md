@@ -20,8 +20,10 @@ http://www.nactem.ac.uk/software/acromine/rest.html
 It's a GET request
 
 Cocoapods are used as dependency manager to add below projects:
-"AFNetworking", "~> 2.0" (https://github.com/AFNetworking/AFNetworking)
-'MBProgressHUD', '~> 0.9.1' (https://github.com/jdg/MBProgressHUD)
+
+1.  "AFNetworking", "~> 2.0" (https://github.com/AFNetworking/AFNetworking)
+
+2. 'MBProgressHUD', '~> 0.9.1' (https://github.com/jdg/MBProgressHUD)
 
 
 
